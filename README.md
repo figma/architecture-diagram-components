@@ -1,5 +1,5 @@
 # architecture-diagram-components
-Check out [this file](https://www.figma.com/community/file/989635781221754599) on the Figma community!
+Check out [this project](https://www.figma.com/community/file/989635781221754599) in the Figma community! 
 
 ---
 
@@ -11,14 +11,12 @@ Create beautiful and informative architecture diagrams with these components - u
   </a>
 </p>
 
-
-
 Check out this [example diagram](https://www.figma.com/community/file/989634471195357925?fuid=839190457814534351) we made 📈.
 
 ## Usage:
 To use these components in your own files:
 
-* Duplicate this community file!
+* Duplicate the community file!
 * You can either: publish the components as a library (if you're on a professional plan) and import them via the component tab in FigJam. This has the advantage of maintaining the links between the components and the library.
 * OR copy and paste components directly in your FigJam or Figma file.
 
