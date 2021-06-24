@@ -7,7 +7,7 @@ Create beautiful and informative architecture diagrams with these components - u
 
 <p align="center">
   <a href="https://www.figma.com/community/file/989635781221754599">
-    <img alt="Architecture Diagram Thumbnail" height="200" width="300" src="./thumbnail.png">
+    <img alt="Architecture Diagram Thumbnail" height="400" width="600" src="./thumbnail.png">
   </a>
 </p>
 
