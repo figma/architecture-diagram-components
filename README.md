@@ -28,3 +28,8 @@ This library provides variants of all of the various components, use them to den
 
 ## Contributing
 🙏🏻! Check out the [CONTRIBUTING.md](./CONTRIBUTING.md) for more information and instructions.
+
+## Changelog
+v1.0.1 (April 29, 2022)
+
+Added many new icons for languages, frontend frameworks, etc. thanks to [@milkbottlelough](https://github.com/milkbottlelough) (and [@helder-jaspion](https://github.com/helder-jaspion) for elixir).
